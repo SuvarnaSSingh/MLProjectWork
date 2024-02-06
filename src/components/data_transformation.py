@@ -98,6 +98,3 @@ class DataTransformation:
     
 
 
-
-    except Exception as e:
-        pass
